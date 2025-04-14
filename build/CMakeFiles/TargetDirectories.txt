@@ -1,0 +1,3 @@
+/workspaces/lru-file-cache/build/CMakeFiles/rebuild_cache.dir
+/workspaces/lru-file-cache/build/CMakeFiles/edit_cache.dir
+/workspaces/lru-file-cache/build/CMakeFiles/lru_file_cache.dir

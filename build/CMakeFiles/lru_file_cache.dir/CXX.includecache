@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/lru-file-cache/lru_cache.cpp
+unordered_map
+-
+list
+-
+string
+-
+ctime
+-
+sys/stat.h
+-
+memory
+-
+iostream
+-
+unistd.h
+-
+

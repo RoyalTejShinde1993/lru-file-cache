@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/lru-file-cache/build",
+  "command": "/usr/bin/g++    -g   -Wall -Wextra -O2 -std=gnu++17 -o CMakeFiles/lru_file_cache.dir/lru_cache.cpp.o -c /workspaces/lru-file-cache/lru_cache.cpp",
+  "file": "/workspaces/lru-file-cache/lru_cache.cpp"
+}
+]
